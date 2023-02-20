@@ -1,0 +1,7 @@
+=== puma startup: 2023-02-20 06:36:05 -0800 ===
+2023-02-20 06:36:22 -0800 Rack app ("GET /" - (127.0.0.1)): #<NameError: uninitialized constant LineDatabase::PATHS_INCLUDE_CSRF>
+2023-02-20 06:36:22 -0800 Rack app ("GET /favicon.ico" - (127.0.0.1)): #<NameError: uninitialized constant LineDatabase::PATHS_INCLUDE_CSRF>
+=== puma startup: 2023-02-20 06:37:40 -0800 ===
+=== puma startup: 2023-02-20 06:37:52 -0800 ===
+=== puma startup: 2023-02-20 06:44:39 -0800 ===
+=== puma startup: 2023-02-20 06:51:18 -0800 ===

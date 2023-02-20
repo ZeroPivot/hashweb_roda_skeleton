@@ -1,0 +1,5 @@
+Packages:
+```
+apt install gtk-doc-tools gobject-introspection glib2.0 libvips42 libvips-dev imagemagick libmagickwand-dev libfreeimage3 libfreeimage-dev jpegoptim optipng
+apt install autoconf bison build-essential libssl-dev libyaml-dev libreadline6-dev zlib1g-dev libncurses5-dev libffi-dev libgdbm6 libgdbm-dev libdb-dev
+```

@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {  "ruby.rubocop.executePath": "/home/aritywolf/.rbenv/shims/",
+	
+		"ruby.rubocop.suppressRubocopWarnings": true,
+		"solargraph.useBundler": true,
+	"ruby.rubocop.useBundler": true}
+}

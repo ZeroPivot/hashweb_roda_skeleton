@@ -1,0 +1,5 @@
+---
+pid: 8674
+control_url: unix:///tmp/puma-status-1676904678247-8674
+control_auth_token: c726fdb8e4222d6d8d7b10f25afceab8
+running_from: "/home/aritywolf/hashweb"
